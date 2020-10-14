@@ -6,3 +6,4 @@ def summarize_contents(filename):
         record = SeqIO.read ("filename", "genbank")
         print(record)
         
+        print(record)
